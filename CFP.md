@@ -1,5 +1,5 @@
 ---
-title: "MICRO 2024"
+title: "StableQ|Call for Papers"
 bg: white
 color: black
 style: left
